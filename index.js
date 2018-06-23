@@ -1,7 +1,7 @@
 // write your code below!
-var name = "Joe"
-var height = 74
+var name = "JoeJoe"
+var age = 7
 var message = `${name} is ${height} inches tall`
-
+var message = `${name} is ${age} old caw
 module.exports = {name, height, message}
 console.log(message);
